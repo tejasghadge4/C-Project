@@ -1,19 +1,19 @@
-1.Name of the project :
+a. Name of the project :
 Customized Virtual File System
 
-2.Technology used : 
+b. Technology used : 
 C, C++
 
-3.User interface used :
+c. User interface used :
 Command Line Interface
 
-4.platform required :
+d. platform required :
 GNU compiler, Windows, Mac, Linux
 
-5.Hardware requirements :
+e. Hardware requirements :
 Minimum 2GB RAM
 
-6.Description of the project: 
+f. Description of the project: 
 
 In this project we emulate all data structures which are used by operating system to manage File 
 system-oriented tasks. As the name suggest its virtual because we maintain all records in Primary storage.
